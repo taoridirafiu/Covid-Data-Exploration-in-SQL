@@ -4,8 +4,9 @@
 
 ## Introduction
 
-This is my report on data exploration in SQL done on covid-19 data. The analysis was done using Microsoft SQL server management system. 
+In this report, I present my findings from conducting data exploration on COVID-19 data using Microsoft SQL Server Management System. As we all know, the COVID-19 pandemic has had a significant impact on the world, affecting nearly every aspect of our lives. Therefore, it is crucial to analyze data related to the pandemic to better understand its impact on society and identify ways to mitigate its effects.
 
+To conduct this analysis, I used SQL queries to extract and transform COVID-19 data into a format suitable for exploration. This involved filtering, aggregating, and joining various tables from the database to create a comprehensive dataset. I then explored this dataset to gain insights into the spread of the virus, the demographics most affected, and the effectiveness of measures taken to control its spread.
 ## SQL Concepts/Functions applied
 
 - Common Table Expressions (CTE)
