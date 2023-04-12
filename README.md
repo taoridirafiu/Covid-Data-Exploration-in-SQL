@@ -59,6 +59,6 @@ Infection by Country   | Death by Country
 - Cyprus has the highest percentage infection with over 70% of its populations infected
 - Year 2021 witnessed the highest death from covid standing at 14,726,364
 
-The resulting output of this data exploration was visualized in [here](shorturl.at/aimtz)
+The resulting output of this data exploration was visualized in [here]([shorturl.at/aimtz](https://public.tableau.com/app/profile/taoridi.rafiu/viz/CovidViz_16799355410900/CovidViz))
 
 
